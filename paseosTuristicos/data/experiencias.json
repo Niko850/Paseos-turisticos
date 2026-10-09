@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nombre": "Cenote Azul", "categoria": "naturaleza", "precio": 350, "icono": "🌊", "cupo": 10 },
+  { "id": 2, "nombre": "Zona arqueológica", "categoria": "cultura", "precio": 480, "icono": "🏛️", "cupo": 15 },
+  { "id": 3, "nombre": "Ruta en tirolesa", "categoria": "aventura", "precio": 750, "icono": "🌲", "cupo": 8 },
+  { "id": 4, "nombre": "Reserva de tortugas", "categoria": "naturaleza", "precio": 420, "icono": "🐢", "cupo": 12 },
+  { "id": 5, "nombre": "Comunidad maya", "categoria": "cultura", "precio": 550, "icono": "🏘️", "cupo": 20 },
+  { "id": 6, "nombre": "Kayak en manglar", "categoria": "aventura", "precio": 680, "icono": "🛶", "cupo": 10 },
+  { "id": 7, "nombre": "Hamburguesa", "categoria": "gastronomia", "precio": 600, "icono": "🍔", "cupo": 25 },
+  { "id": 8, "nombre": "Tacos al pastor", "categoria": "gastronomia", "precio": 300, "icono": "🌮", "cupo": 30 }
+]
